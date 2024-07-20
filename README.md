@@ -54,9 +54,9 @@ attack_tree.json
 - Enter probability of Risk and aggregate value of the overall thread rating probability:
   - Value for Sabotage (suffix '%' for probability): 8%
 
-After all commands are finished, the application will visualize the attack tree graph as below:
+- After all commands are finished, the application will visualize the attack tree graph as below:
 <img width="958" alt="Screenshot 2024-07-20 at 2 11 09 PM" src="https://github.com/user-attachments/assets/0015f5d5-f5b7-4e7a-a35a-a210019fdd62">
 
 
-Command example:
+- Command example:
 <img width="767" alt="Screenshot 2024-07-20 at 4 10 26 PM" src="https://github.com/user-attachments/assets/baaf41be-cbc9-434f-8710-95bfeba118c7">
